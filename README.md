@@ -15,7 +15,11 @@
 
 ---
 
+<div align="center">
+
 ## 1. 기본정보
+
+</div>
 
 | 구분    | 내용                                  |
 | ----- | ----------------------------------- |
@@ -26,22 +30,20 @@
 
 ---
 
+<div align="center">
+
 ## 2. 역량
 
 ### 언어
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-</p>
+<br><br>
 
 ### 보드
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white">
@@ -49,9 +51,11 @@
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 ## 3. 수상 및 주요 성과
 
@@ -63,7 +67,7 @@ ESP32를 활용하여 웹에서 조명과 출입 장치를 제어할 수 있는 
 
 `ESP32` `C++` `Wi-Fi` `Web Server` `Servo Motor` `NeoPixel`
 
----
+<br>
 
 ### 🏆 2024 안동대학교 · 동아대학교 연합 해커톤 인기상
 
@@ -73,7 +77,7 @@ C 소스코드를 분석하고 보안상 문제가 될 수 있는 부분을 확�
 
 `C` `Python` `Flask` `HTML` `AI` `Code Analysis`
 
----
+<br>
 
 ### 🚀 2019 한국코드페어 2차 본선 진출
 
@@ -83,9 +87,15 @@ ESP8266과 카메라 및 센서를 활용하여 출입 상태를 감지하고 �
 
 `ESP8266` `C++` `Firebase` `ArduCAM` `Sensor` `IoT`
 
+</div>
+
 ---
 
+<div align="center">
+
 ## 4. 자격증
+
+</div>
 
 | 자격증        | 구분     |
 | ---------- | ------ |
@@ -94,33 +104,27 @@ ESP8266과 카메라 및 센서를 활용하여 출입 상태를 감지하고 �
 
 ---
 
+<div align="center">
+
 ## 5. 문의
 
-<p align="center">
+<br>
 
 <a href="mailto:baik040609@gmail.com">
-<img src="https://img.shields.io/badge/Email-baik040609%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-baik040609%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://github.com/BAIKJUWON">
-<img src="https://img.shields.io/badge/개인용_GitHub-BAIKJUWON-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/개인용_GitHub-BAIKJUWON-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br><br>
 
 <a href="https://github.com/BAIKJUWON04">
-<img src="https://img.shields.io/badge/취업용_GitHub-BAIKJUWON04-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/취업용_GitHub-BAIKJUWON04-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</p>
-
----
-
-## Favorite Language
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON04&layout=compact&langs_count=8&hide_border=true">
 
 </div>
 
@@ -128,6 +132,12 @@ ESP8266과 카메라 및 센서를 활용하여 출입 상태를 감지하고 �
 
 <div align="center">
 
-### Embedded Software · Firmware · System Programming
+## ❤️ Favorite Language
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<br><br>
+
+**C**
 
 </div>
