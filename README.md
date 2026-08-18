@@ -215,14 +215,12 @@ ESP8266과 카메라 및 센서를 활용하여
 
 <br>
 
-<img src="https://img.shields.io/badge/FAVORITE%20LANGUAGE-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-
-<br><br>
-
-### C
-
-임베디드 시스템과 펌웨어 개발을 위해
-가장 중요하게 학습하고 사용하는 언어입니다.
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON04&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5"
+    alt="Most Used Languages"
+  />
+</p>
 
 <br>
 
