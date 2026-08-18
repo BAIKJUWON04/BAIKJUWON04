@@ -217,7 +217,7 @@ ESP8266과 카메라 및 센서를 활용하여
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BAIKJUWON04&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BAIKJUWON04&layout=compact&langs_count=8&hide=css&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5"
     alt="Most Used Languages"
   />
 </p>
